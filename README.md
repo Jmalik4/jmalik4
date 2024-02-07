@@ -11,14 +11,16 @@ I am a data-driven and results-oriented professional with experience in data ana
 - Machine Learning
 - Data Visualization
 
-Here are some ideas to get you started:
+## Experience
+- Audit Specialist - Arizona State University (Jan 2024 - Present)
+- Lead Student Research Assistant - Arizona State University (May 2022- Jan 2024)
+- Desk Assistant - Arizona State University (May 2022- May 2023)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Prescriptive Data Analysis
+- Predictive Data Analysis
+- Interacttive Data Analysis
+
+## Contact
+- LinkedIn - https://www.linkedin.com/in/jaanvi-malik-2a29b825b/
+- Email - jmalik4@asu.edu
