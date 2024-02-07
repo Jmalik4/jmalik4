@@ -19,7 +19,6 @@ I am a data-driven and results-oriented professional with experience in data ana
 ## Projects
 - Prescriptive Data Analysis
 - Predictive Data Analysis
-- Interacttive Data Analysis
 
 ## Contact
 - LinkedIn - https://www.linkedin.com/in/jaanvi-malik-2a29b825b/
